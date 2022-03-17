@@ -1,0 +1,11 @@
+"familiares" "compraregalos" "sino" "gastoregalo" "numeroregalo" "gastototal"
+4 1 "si" 35 3 420
+4 1 "si" 45 2 360
+5 1 "si" 100 1 500
+5 1 "si" 25 3 375
+8 1 "si" 50 2 800
+3 1 "si" 40 3 360
+3 1 "si" 60 2 360
+4 1 "si" 80 2 640
+4 1 "si" 45 3 540
+3 0 "no" 0 0 0

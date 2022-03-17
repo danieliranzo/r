@@ -1,0 +1,11 @@
+"","Nombre","AñoNacimiento","Hijos","HijosIF","Sexo","sEXOF","defunciones","Nancimientos","mediafallecidosnacidos"
+"1","Rodrigo",0026-10-19,1,"si",1,"H",0,1,Inf
+"2","Pilar",0017-03-19,0,NA,0,"M",2,3,1.5
+"3","Teresa",0004-01-19,1,"si",0,"M",1,2,2
+"4","Clara",0012-12-19,1,"si",0,"M",3,3,1
+"5","Martin",0023-10-19,0,NA,1,"H",4,0,0
+"6","Carola",0018-05-19,0,NA,0,"M",2,1,0.5
+"7","Fausto",0010-04-19,1,"si",1,"H",2,3,1.5
+"8","Jimena",0014-02-19,0,NA,0,"M",0,4,Inf
+"9","Pablo",0008-06-19,1,"si",1,"H",1,2,2
+"10","Carlos",0003-01-19,1,"si",1,"H",3,1,0.333333333333333
